@@ -25,9 +25,10 @@ module.exports = {
 
     // color of the text
     foregroundColor: '#c09',
+    // foregroundColor: '#fff',
 
     // terminal background color
-    backgroundColor: 'rgba(16,16,16,0.6)',
+    backgroundColor: 'rgba(16,16,16,0.9)',
 
     // border color (window, tabs)
     borderColor: '#333',
